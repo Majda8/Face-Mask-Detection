@@ -37,4 +37,3 @@ The script will start and automatically detect faces with or without masks in th
 - The trained model is saved as `mask_detector_model.keras`.
 
 Feel free to contribute or improve the model as needed!
-```
